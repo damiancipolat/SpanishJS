@@ -1,5 +1,6 @@
 # Análisis sintáctico Español
 ![N|Solid](http://clipart-library.com/img/1698106.png)
+![N|Solid](http://2.bp.blogspot.com/-ybjEsh1Icu0/VqRBzF2lEGI/AAAAAAAAD7k/b0HnKNNbaNc/s640/javascript-logo.png)
 
 >Este proyecto fue creado debido a la ausencia de recursos para realizar analisis sintacticos con NodeJs para el lenguaje Español. El objetivo principal es que sea usado como herramienta complementaria a NPL para procesamiento de textos, lo desarrolle originalmente para que sea usado en proyectos de chatbots que usan NPL para mejorar la inteligencia en las conversaciones.
 
